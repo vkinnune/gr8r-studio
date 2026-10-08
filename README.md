@@ -1,4 +1,4 @@
-# Nordic RegTech Studio
+# Nordic RegTech
 
 A structured compliance and project management workspace with statutory diffs,
 task tracking, board / list / table / calendar / timeline views, team permissions,
@@ -7,7 +7,7 @@ and audit activity.
 Built with plain JavaScript ES modules and CSS, bundled by [Vite](https://vite.dev). Zero
 runtime UI framework dependencies. Ready for REST and PostgreSQL integration.
 
-![Gr8r Studio home dashboard](docs/preview.png)
+![Nordic RegTech home dashboard](docs/preview.png)
 
 ## Getting started
 
